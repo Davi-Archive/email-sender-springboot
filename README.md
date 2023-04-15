@@ -66,7 +66,7 @@ public void sendEmail(String to, String subject, String text) {
 
 ## Como Usar
 
-Após executar o aplicativo, acesse-o em `http://localhost:8080`. Na página inicial, preencha os campos de destinatário, assunto e corpo do email e clique no botão "Enviar". Se tudo estiver configurado corretamente, o aplicativo enviará o email para o endereço especificado.
+Após executar o aplicativo, acesse-o em `http://localhost:8080/api/v1/users`. Na página inicial, preencha os campos de destinatário, assunto e corpo do email e clique no botão "Enviar". Se tudo estiver configurado corretamente, o aplicativo enviará o email para o endereço especificado.
 
 ## Contribuição
 
